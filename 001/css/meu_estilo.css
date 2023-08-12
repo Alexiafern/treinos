@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../imgs/fundo.jpg');
+}
+a.navbar-brand:hover{
+    text-decoration: none;
+    color: yellowgreen;
+    background-image: linear-gradient(to right, #322E1E, #030B02, #051707);
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+h5.card-title{
+    color: white;
+}
+p.card-text{
+    color: white;
+}
+.card{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../imgs/fundo.jpg');
+}
+form{
+    color: white;
+}
+label.form-label{
+    color: white;
+}
